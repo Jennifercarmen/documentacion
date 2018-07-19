@@ -41,6 +41,7 @@ export default function downloadUrlPlugin (toolbox) {
       }
 
       function checkPossibleFailReasons() {
+        
         try {
           let specUrl
 
